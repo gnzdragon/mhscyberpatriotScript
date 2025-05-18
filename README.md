@@ -10,7 +10,7 @@ A curated collection of automation and utility scripts designed to streamline va
 
 ## Installation
 Clone the repository:
-git clone https://gnzdragon/mhscyberpatriotScript.git
+git clone [https://gnzdragon/mhscyberpatriotScript.git](https://github.com/gnzdragon/mhscyberpatriotScript)
 
 ## Usage
 Each script is independent and can be run directly from the command line:
